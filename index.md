@@ -8,7 +8,7 @@
 ## Some of my skills include:
 - App Development in Android Studio
 - Data Analysis using R and Python
-- Visualization of Data using Tableau and SaS
+- Visualization of Data using Tableau and SAS
 
 
 
@@ -20,7 +20,7 @@
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][4.1]][4]
+
 
 
 
@@ -29,7 +29,7 @@
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.1]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.1]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[4.1]: /thumbnails/320px-Gmail_Icon.png (gmail icon without padding)
+
 
 
 
@@ -37,7 +37,7 @@
 [1]: https://twitter.com/aadiharan99
 [2]: https://www.facebook.com/aaditya.haran
 [3]: https://twitter.com/aadiharan99
-[4]: aadiharan99@gmail.com
+
 
 
 
