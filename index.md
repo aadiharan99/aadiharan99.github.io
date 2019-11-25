@@ -5,7 +5,7 @@
 ## About me:
 As a Data Scientist,I am continuously analyzing the world around me to find trends,patterns. I love learning new things and especially love learning about the different cultures and languages of the world.
 
-[Download CV](https://github.com/aadiharan99/aadiharan99.github.io/tree/master/docs/Aadityaharan Ganesh CV.docx)
+[Download CV](https://github.com/aadiharan99/aadiharan99.github.io/blob/master/docs/Aadityaharan%20Ganesh%20CV.docx)
 
 Contact me on
 
