@@ -2,6 +2,11 @@
 
 ![Background Image](https://cdn.vox-cdn.com/uploads/chorus_asset/file/19167110/DigiTale_v2_Landscape.0.png)
 
+## About me:
+As a Data Scientist,I am continuously analyzing the world around me to find trends,patterns. I love learning new things and especially love learning about the different cultures and languages of the world.
+
+[Download CV](https://ahcv.s3.ap-south-1.amazonaws.com/Aadityaharan+Ganesh+CV.docx)
+
 Contact me on
 
 [![alt text][1.1]][1]
@@ -20,8 +25,6 @@ Contact me on
 [1]: https://twitter.com/aadiharan99
 [2]: https://www.facebook.com/aaditya.haran
 [3]: https://twitter.com/aadiharan99
-
-
 
 
 
