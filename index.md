@@ -13,7 +13,7 @@
 
 
 
-[Download CV](https://github.com/aadiharan99/aadiharan99.github.io/blob/master/docs/Aadityaharan%20Ganesh%20CV.docx)
+[Download CV](/docs/Aadityaharan_CV.docx)
 
 ### Contact me on
 
