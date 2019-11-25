@@ -1,4 +1,4 @@
-Hello, I'm Aadityaharan Ganesh
+# Android and ML Enthusiast|Polyglot
 
 
 
