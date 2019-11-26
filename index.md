@@ -10,6 +10,14 @@
 - Data Analysis using R and Python
 - Visualization of Data using Tableau and SAS
 
+### Project List:
+1. Logistic Regression model to determine and predict whether a student will be able to clear the JEE depending upon various factors that were considered.
+2. Development of a Grocery Inventory Android app with Firebase Integration using Android Studio.
+3. A Linear Regression model to predict the Deviation cost of shipping Polyester.
+4. An RNN LSTM on NIFTY50 Historical Data.
+
+
+
 
 
 
