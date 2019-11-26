@@ -23,7 +23,7 @@
 
 
 
-[Download CV](/docs/Aadityaharan_CV.pdf)
+[Download CV](/docs/Aadityaharan_ CV.pdf)
 
 ### Contact me on
 
