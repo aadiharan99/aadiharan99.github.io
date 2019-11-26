@@ -47,7 +47,7 @@
 
 [1]: https://twitter.com/aadiharan99
 [2]: https://www.facebook.com/aaditya.haran
-[3]: https://twitter.com/aadiharan99
+[3]: https://github.com/aadiharan99
 [4]: https://www.linkedin.com/in/aadityaharan-ganesh-22b831168/
 
 
