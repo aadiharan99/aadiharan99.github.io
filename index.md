@@ -23,14 +23,14 @@
 
 
 
-[Download CV](/docs/Aadityaharan_CV.docx)
+[Download CV](/docs/Aadityaharan_ CV.pdf)
 
 ### Contact me on
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][4.1]][4]
+[![][4.1]][4]
 
 
 
