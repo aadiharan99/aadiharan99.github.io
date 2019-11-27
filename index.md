@@ -1,6 +1,6 @@
 
 
-![Background Image](https://cdn.vox-cdn.com/uploads/chorus_asset/file/19167110/DigiTale_v2_Landscape.0.png)
+![Background Image](/thumbnails/rachel-cook-mOcdke2ZQoE-unsplash.jpg)
 
 
 ## A naturally analytical and inquisitive person,I am a Data Science Undergrad with strong Analytical skills. Sincerity,Punctuality and Dedication are my core traits,and completing tasks before deadlines is a priority. I am a Team Player and have led and been part of teams that have successfully implemented projects.
